@@ -16,14 +16,10 @@ print_hi('PyCharm')
 print_hi('PyCharm')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 '''
-cmvncnvbcvc
-v
-vvc
-c
-vcv
-c
-cv
-c
-cv
+бублик
+зублик 
+зяблик
+мяблик
+
 
 '''
